@@ -1,7 +1,8 @@
 # Auth By MUDASSAR ALI  
 For Runing this app.
-1) #Install node 
+#Install node 
 "npm install"
-2)Listen on port
+#Listen on port
 "npm run start"
-#Now navigate to "localhost:3000"
+#Now navigate to 
+"localhost:3000"
